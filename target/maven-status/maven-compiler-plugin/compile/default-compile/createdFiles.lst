@@ -1,0 +1,10 @@
+com\covidalertservice\controller\dto\BaseDataClass.class
+com\covidalertservice\controller\dto\CovidApiData.class
+com\covidalertservice\controller\service\Covid19DataProvider.class
+com\covidalertservice\controller\AlertController.class
+com\covidalertservice\controller\CovidAlertServiceApplication.class
+com\covidalertservice\controller\dto\SummaryData.class
+com\covidalertservice\controller\dto\AlertStatus.class
+com\covidalertservice\controller\dto\CountryData.class
+com\covidalertservice\controller\service\AlertService.class
+com\covidalertservice\controller\dto\StateData.class
